@@ -1,6 +1,6 @@
 # bazaar-capacitor-billing-plugin
 
-capacitor plugin for poolajey of bazaar
+capacitor plugin for poolakey of bazaar
 
 ## Install
 
